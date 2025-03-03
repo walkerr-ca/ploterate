@@ -1,0 +1,11 @@
+/Users/walker/Downloads/Code/Personal/Bookish/server/target/debug/deps/libubyte-bfabbc71b804e5ca.rmeta: /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/arithmetic.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/byte_unit.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/parse.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/ser_de.rs
+
+/Users/walker/Downloads/Code/Personal/Bookish/server/target/debug/deps/libubyte-bfabbc71b804e5ca.rlib: /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/arithmetic.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/byte_unit.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/parse.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/ser_de.rs
+
+/Users/walker/Downloads/Code/Personal/Bookish/server/target/debug/deps/ubyte-bfabbc71b804e5ca.d: /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/arithmetic.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/byte_unit.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/parse.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/ser_de.rs
+
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/lib.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/arithmetic.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/byte_unit.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/parse.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ubyte-0.10.4/src/ser_de.rs:

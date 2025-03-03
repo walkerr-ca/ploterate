@@ -1,0 +1,13 @@
+/Users/walker/Downloads/Code/Personal/Bookish/server/target/debug/deps/libtoml-968af525066c4845.rmeta: /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/map.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/value.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/de.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/ser.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/macros.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/edit.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/fmt.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/table.rs
+
+/Users/walker/Downloads/Code/Personal/Bookish/server/target/debug/deps/toml-968af525066c4845.d: /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/map.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/value.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/de.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/ser.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/macros.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/edit.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/fmt.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/table.rs
+
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/lib.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/map.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/value.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/de.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/ser.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/macros.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/edit.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/fmt.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml-0.8.20/src/table.rs:

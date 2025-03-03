@@ -1,0 +1,12 @@
+/Users/walker/Downloads/Code/Personal/Bookish/server/target/debug/deps/libstate-579864d7625b8df2.rmeta: /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs
+
+/Users/walker/Downloads/Code/Personal/Bookish/server/target/debug/deps/libstate-579864d7625b8df2.rlib: /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs
+
+/Users/walker/Downloads/Code/Personal/Bookish/server/target/debug/deps/state-579864d7625b8df2.d: /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs /Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs
+
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs:
