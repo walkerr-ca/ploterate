@@ -1,4 +1,4 @@
-package utils
+package queries
 
 import (
 	"github.com/walker-121g/bookish/server/services"
