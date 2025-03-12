@@ -1,17 +1,19 @@
-import { createRootRoute, Link, Outlet } from "@tanstack/react-router";
+import { createRootRoute, Outlet } from "@tanstack/react-router";
 import { TanStackRouterDevtools } from "@tanstack/router-devtools";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+
+import { Toaster } from "@/components/ui/sonner";
+
+const queryClient = new QueryClient();
 
 export const Route = createRootRoute({
   component: () => (
-    <>
-      <div className="p-2 flex gap-2">
-        <Link to="/" className="[&.active]:font-bold">
-          Home
-        </Link>
-      </div>
-      <hr />
-      <Outlet />
+    <main className="w-screen h-screen overflow-x-hidden overflow-y-auto scroll-smooth">
+      <QueryClientProvider client={queryClient}>
+        <Outlet />
+        <Toaster />
+      </QueryClientProvider>
       <TanStackRouterDevtools />
-    </>
+    </main>
   ),
 });
