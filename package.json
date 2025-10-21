@@ -1,0 +1,28 @@
+{
+  "name": "bookish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:client": "pnpm --filter bookish-client dev",
+    "dev:server": "pnpm --filter bookish-server dev",
+    "dev": "concurrently \"pnpm --filter bookish-client dev\" \"pnpm --filter bookish-server dev\"",
+    "build:client": "pnpm --filter bookish-client build",
+    "build:server": "pnpm --filter bookish-server build",
+    "build": "pnpm --filter bookish-client build && pnpm --filter bookish-server build",
+    "start": "pnpm --filter bookish-server start",
+    "format:check": "prettier . --check",
+    "format": "prettier . --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.4",
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "prettier": "^3.6.2"
+  }
+}

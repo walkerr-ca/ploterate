@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+
+# Monorepo Apps
+apps/server/source/prisma/generated
+apps/server/node_modules
+apps/server/output
+apps/client/node_modules
+apps/client/dist

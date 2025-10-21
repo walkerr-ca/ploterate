@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types", "./source/types"],
+    "target": "ES2020",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "outDir": "output",
+    "rootDir": "source",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./source/*"]
+    }
+  },
+  "include": ["source", "source/types/**/*.d.ts"],
+  "ts-node": {
+    "files": true
+  }
+}
