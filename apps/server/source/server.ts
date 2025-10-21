@@ -37,5 +37,5 @@ app.get("*page", (_, response) => {
 });
 
 app.listen(port, async () => {
-  console.log(`[BookishAPI] The server is now listening on PORT::${port}!`);
+  console.log(`[PloterateAPI] The server is now listening on PORT::${port}!`);
 });

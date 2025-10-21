@@ -1,5 +1,5 @@
 {
-  "name": "bookish",
+  "name": "ploterate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,13 +7,13 @@
     "apps/*"
   ],
   "scripts": {
-    "dev:client": "pnpm --filter bookish-client dev",
-    "dev:server": "pnpm --filter bookish-server dev",
-    "dev": "concurrently \"pnpm --filter bookish-client dev\" \"pnpm --filter bookish-server dev\"",
-    "build:client": "pnpm --filter bookish-client build",
-    "build:server": "pnpm --filter bookish-server build",
-    "build": "pnpm --filter bookish-client build && pnpm --filter bookish-server build",
-    "start": "pnpm --filter bookish-server start",
+    "dev:client": "pnpm --filter client dev",
+    "dev:server": "pnpm --filter server dev",
+    "dev": "concurrently \"pnpm --filter client dev\" \"pnpm --filter server dev\"",
+    "build:client": "pnpm --filter client build",
+    "build:server": "pnpm --filter server build",
+    "build": "pnpm --filter client build && pnpm --filter server build",
+    "start": "pnpm --filter server start",
     "format:check": "prettier . --check",
     "format": "prettier . --write"
   },
