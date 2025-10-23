@@ -9,7 +9,7 @@ const queryClient = new QueryClient();
 const RootLayout = () => (
   <>
     <QueryClientProvider client={queryClient}>
-      <ThemeProvider defaultTheme="system">
+      <ThemeProvider defaultTheme="light">
         <div className="w-screen h-screen overflow-x-hidden overflow-y-auto">
           <Outlet />
         </div>
