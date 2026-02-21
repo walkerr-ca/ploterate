@@ -11,7 +11,7 @@ const queryClient = new QueryClient();
 const RootLayout = () => (
   <QueryClientProvider client={queryClient}>
     <ThemeProvider defaultTheme="light">
-      <div className="w-screen h-screen overflow-x-hidden overflow-y-auto">
+      <div className="w-screen h-screen overflow-x-hidden overflow-y-auto scroll-smooth">
         <Outlet />
       </div>
       <Toaster />
