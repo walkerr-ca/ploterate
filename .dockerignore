@@ -1,0 +1,8 @@
+node_modules/
+.security/
+.tanstack/
+
+server/static
+server/internal/storage
+
+web/routeTree.gen.ts

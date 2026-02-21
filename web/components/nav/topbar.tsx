@@ -14,13 +14,13 @@ export const Topbar = () => {
           <Link to="/about">About</Link>
         </Button>
         <Button variant="link" className="text-foreground" asChild>
-          <Link to="/app/popular">Popular</Link>
+          <Link to="/about">Popular</Link>
         </Button>
         <Button variant="link" className="text-foreground" asChild>
-          <Link to="/app/browse">Browse</Link>
+          <Link to="/about">Browse</Link>
         </Button>
         <Button variant="link" className="text-foreground" asChild>
-          <Link to="/app/search">Search</Link>
+          <Link to="/about">Search</Link>
         </Button>
       </div>
       <div className="w-fit flex justify-end flex-row items-center gap-4">
